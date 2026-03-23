@@ -56,6 +56,7 @@ The project explores patterns such as:
 ├── visualizationplots.py # Advanced visualizations
 ├── train_v2_drcat_02.csv.zip
 └── README.md
+csv file:https://www.kaggle.com/datasets/thedrcat/daigt-v2-train-dataset
 
 ---
 
